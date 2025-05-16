@@ -1,4 +1,4 @@
-# coronaBERT: DistilBERT-Based Sequence Classification Model
+# coronaBERT: DistilBERT-Based Model for Policy 
 
 ## Overview
 - This repository contains code, training scripts, and documentation for a `fine-tuned DistilBERT` model for national policy related to COVID-19 classification tasks. The model is designed to classify text descriptions of COVID policies into predefined categories (Policy Type). The project includes data preprocessing, model training, evaluation, and quantization for efficient inference.
