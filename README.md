@@ -1,4 +1,4 @@
-<img src="distilbert.png" height="250" width="200">
+<div style="text-align: center;"><img src="distilbert.png" height="200" width="150" ></div>
 
 # coronaBERT: DistilBERT-Based Model for COVID-19 Policy classification
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/Joesh1/coronaBERT)
