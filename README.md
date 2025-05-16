@@ -1,4 +1,4 @@
-# coronaBERT: DistilBERT-Based Model for Policy 
+# coronaBERT: DistilBERT-Based Model for COVID-19 Policy classification
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/Joesh1/coronaBERT)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
