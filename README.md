@@ -42,6 +42,16 @@ classifier("The government initiated COVID-19 vaccine distribution as of..")
 # output
 #[{'label': 'COVID-19 Vaccines', 'score': 0.9725420475006104}]
 ```
+## Citation
+
+@misc{joesh1-coronaBERT,
+    author = {Joesh1},
+    title = {coronaBERT: DistilBERT-Based Model for COVID-19 Policy Classification},
+    howpublished = {\url{https://huggingface.co/Joesh1/coronaBERT}},
+    year = {2025},
+    note = {Accessed: [Insert Date Accessed, e.g., 2025-05-12]}
+}
+
 
 ## Try the model
 - [HuggingFace](https://huggingface.co/Joesh1/coronaBERT)
